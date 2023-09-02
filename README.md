@@ -1,5 +1,4 @@
-# Python-EDA-Prosper-Loans-Data-Analysis
-# conclusions of Findings
+# Conclusions of Findings
 
 The analysis reveals a **continuous increase in monthly loan payments from June 2019 to late 2012**, followed by a subsequent decrease from late 2012 to early 2013. Post this decline, **payments witnessed a significant rise from 25,000 to 180,000 between 2013 and 2014, followed by another decline.**
 
@@ -7,4 +6,4 @@ The study underscores the evolution of the company's loan terms, noting the intr
 
 Furthermore, the ProsperRating and IsBorrowerHomeowner attributes reveal a significant proportion of C-rated borrowers, with a fairly even split between homeowners and non-homeowners. A-rated borrowers are more prevalent, with a higher homeownership percentage. In contrast, AA-rated borrowers are relatively scarce, with the majority being homeowners.
 
-The analysis summarizes Borrower APR and maximum loan amounts across various Prosper ratings. A-rated borrowers generally exhibit lower Borrower APR and higher loan amounts, while AA-rated borrowers have the lowest APR and a maximum loan limit of $25,000. Borrower APR for B and C-rated borrowers ranges from 0.07 to 0.3, with a maximum loan cap of $25,000. However, D-rated borrowers experience higher Borrower APR compared to other ratings. E and HR-rated borrowers have the highest Borrower APR and the lowest maximum monthly income, with HR borrowers also carrying a high debt-to-income ratio.
+The analysis **summarizes Borrower APR and maximum loan amounts across various Prosper ratings.** A-rated borrowers generally exhibit lower Borrower APR and higher loan amounts, while AA-rated borrowers have the lowest APR and a maximum loan limit of $25,000. Borrower APR for B and C-rated borrowers ranges from 0.07 to 0.3, with a maximum loan cap of $25,000. However, D-rated borrowers experience higher Borrower APR compared to other ratings. E and HR-rated borrowers have the highest Borrower APR and the lowest maximum monthly income, with HR borrowers also carrying a high debt-to-income ratio.
